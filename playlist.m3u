@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="viva-tv" tvg-name="VIVA TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/qCLICfC.jpg" tvg-country="RU" tvg-url="" group-title="Music",VIVA TV
+#EXTINF:-1 tvg-id="" tvg-name="VIVA TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/qCLICfC.jpg" tvg-country="RU" tvg-url="" group-title="Music",VIVA TV
 https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url="" group-title="Music",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
