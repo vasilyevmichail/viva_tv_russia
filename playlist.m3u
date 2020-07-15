@@ -3,3 +3,7 @@
 https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url="" group-title="Music",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Yle TV1 FI" tvg-name="Yle TV1 FI" tvg-language="Finnish" tvg-logo="https://i.imgur.com/MTZM0k5.png" tvg-country="FI" tvg-url="" group-title="",Yle TV1
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
+#EXTINF:-1 tvg-id="Yle TV2 FI" tvg-name="Yle TV2 FI" tvg-language="Finnish" tvg-logo="https://i.imgur.com/SHLh731.png" tvg-country="FI" tvg-url="" group-title="",Yle TV2
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
