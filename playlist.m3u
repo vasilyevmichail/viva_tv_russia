@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1 resolution=720x576 tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Музыка", VIVA RUSSIA
-http://cdnnow.goodgame.ru/hls/180805.m3u8  
-#EXTINF:-1 resolution=1080x720 tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Музыка", VIVA RUS 2 
+#EXTINF:-1 resolution=720x576 group-title="Музыка" tvg-logo="https://i.imgur.com/qCLICfC.jpg" tvg-country="RU" tvg-language="Russian", VIVA TV RUSSIA
+https://vzcdn.dlivecdn.com/dlive/transcode-71-74/viva-russia/1612880922/src/live.m3u8
+#EXTINF:-1 resolution=1080x720 group-title="Музыка" tvg-logo="https://i.imgur.com/qCLICfC.jpg" tvg-country="RU" tvg-language="Russian", VIVA TV RUSSIA 
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
-#EXTINF:-1 resolution=720x576 tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Музыка", VIVA RUS (Server global)
+#EXTINF:-1 resolution=720x576 group-title="Музыка" tvg-logo="https://i.imgur.com/qCLICfC.jpg" tvg-country="RU" tvg-language="Russian", VIVA TV RUSSIA
 https://tna5.bozztv.com/viva/index.m3u8
-#EXTINF:-1 resolution=720x576 tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Музыка", VIVA RUS 
-https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8 
-#EXTINF:-1 resolution=720x576 tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Музыка", VIVA RUS2 
-https://edge.hls.hitbox.tv/hls/viva-polska/index.m3u8?st=MsDL3pnwWMtpT8JI5h48VA;ci=VZ2Y4Vid2F7D9Pqv_a7M5A 
-#EXTINF:-1 resolution=720x576 tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Музыка", VIVA RUS 3 
-http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
-#EXTINF:-1 resolution=720x576 tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Музыка", VIVA RUS Global
-https://mn-nl-glb.mncdn.com/dlive/transcode-85-2/viva-russia/1591473975/src/live.m3u8
