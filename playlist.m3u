@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://viva-russia.ru/scheduler/epg/epg.xml.gz" x-tvg-url="https://viva-russia.ru/scheduler/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Music",VIVA TV RUSSIA
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Music",VIVA TV RUSSIA
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Music",VIVA TV RUSSIA
 https://stream.funcontent.ru/hls/vivarussia/index.m3u8
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Music",VIVA TV RUSSIA
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
